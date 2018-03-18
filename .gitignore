@@ -1,0 +1,11 @@
+main
+*.trace
+*.ilk
+*.exe
+*.pdb
+*.sublime-project
+*.sublime-workspace
+ext/
+res/meshes/
+res/fonts/
+res/textures/
